@@ -1,3 +1,5 @@
 # best-repo-ever
-# Hello world is the basics for new coders!
 # best-repo-ever
+# best-repo-ever
+# goo, well done my dear!
+
